@@ -16,7 +16,7 @@ Pillow==10.1.0
 
 # Machine Learning & Vector Search
 sentence-transformers==2.2.2
-faiss-cpu==1.7.4
+faiss-cpu
 numpy==1.24.3
 torch==2.1.1
 
